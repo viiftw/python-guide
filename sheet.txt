@@ -1,0 +1,5 @@
+# Install all packages in requirements.txt
+pip install -r requirements.txt
+
+# Install a specific python package version whether it is the first time, an upgrade or a downgrade
+pip install --force-reinstall -v "MySQL_python==1.2.2"
