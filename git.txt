@@ -1,0 +1,18 @@
+Commit message
+<type>: <subject>
+
+Pull request
+<type>_<issue id>_<issue name>
+
+
+<type>
+  feat - a new feature
+  fix - a bug fix
+  docs - changes in documentation
+  style - everything related to styling
+  refactor - code changes that neither fixes a bug or adds a feature
+  test - everything related to testing
+
+<subject>
+  short description of the changes made
+  should begin with a capital letter and written in the imperative
