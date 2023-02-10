@@ -238,3 +238,8 @@ per-file-ignores =
 - Hạn chế sử dụng magic methods
 
 **Tài liệu này tham khảo Evrone & Google style guidelines đã tóm lược.**
+
+## Ref
+
+[google python style](https://google.github.io/styleguide/pyguide.html)  
+[evrone style](https://github.com/evrone/evrone-python-guidelines)
